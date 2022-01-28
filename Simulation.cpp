@@ -1,3 +1,8 @@
+/*
+The simulation specified by the procedure and procedure.
+This code adheres to the Pseudocode which is shown in the presentation.
+*/
+
 //Standard libraries to be used
 #include <iostream>
 #include <vector> 
